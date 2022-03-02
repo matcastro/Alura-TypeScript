@@ -19,3 +19,4 @@ if (botaoImporta) {
 else {
     throw new Error("Botão importa não encontrado.");
 }
+//# sourceMappingURL=app.js.map
